@@ -15,7 +15,7 @@
 
 * Mathematics for Grades 7 to 12
 * Biology for Grades 11, 12 specially focussing on NEET Medical Entrance Exams
-* Foundation Batch: NEET Medical in Biology for Grades 9, 10
+* Foundation Batch in Biology for Grades 9, 10: Targetting NEET Medical Entrance 
 * Special Batch for ICSE Biology - for Grades 9,10 
 * Any syllabus including State, CBSE, ICSE, IB, IGCSE
 * Complimentary Mathematics Olympiad sessions included
