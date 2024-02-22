@@ -1,9 +1,8 @@
 
 # Admission
 * This is an extensive program to discover and Unlock Your Mathematical Potential 
-* Provide Home visits at your location 
-* One to one classes for home visits @ your location
-* Small size Batches: We believe in quality over quantity. That's why we keep our class sizes small to max 4 to ensure that each student receives the attention and support they deserve.
+* Provide Home visits @ your location 
+* Small size Batches: We believe in quality over quantity. That's why we keep our class sizes small to max 4 to ensure that each student receives the attention and support they deserve. Address: Near Spandana Hospital, Sompura Gate, Sarjapura
 * 3 Slots per academic year 
 * Admission closes by Feb/March month every academic year
 * For advance booking **call or watsapp 9538072190**
