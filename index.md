@@ -35,4 +35,4 @@
 | Grade 11  | 5500 |
 | Grade 12  | 6000  |
 
-## Contact **Call or watsapp 9538072190
+## Call or watsapp 9538072190
