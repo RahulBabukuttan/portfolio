@@ -1,8 +1,8 @@
 # Admission
 
-* Provide Home visits at your location
-* One to one classes only. Hence Limited slots
-* 4 Slots per academic year
+* Provide Home visits at your location or at our location
+* One to one classes and batches of 3 to 4 
+* 3 Slots per academic year 
 * Admission closes by Feb/March month every academic year
 * For advance booking **call or watsapp 9538072190**
 
@@ -16,17 +16,17 @@
 
 ## Fee Structure
 
-* Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
-* 8 - 10 hours is required per month
+* Home visits Starts @Rs. 8000 monthly depending up on the distance and grades
+* For Batch admissions, Adress: Near Spandana Hospital, Sompura Gate: Rates are given below
 
-| Grades  | Hourly Fees |
+| Grades  | Monthly Fees |
 | ------------- | ------------- |
-| Grade 7  | 400  |
-| Grade 8  | 425  |
-| Grade 9  | 450  |
-| Grade 10  | 450  |
-| Grade 11  | 550  |
-| Grade 12  | 600  |
+| Grade 7  | 4000  |
+| Grade 8  | 4250  |
+| Grade 9  | 4500  |
+| Grade 10  | 4500  |
+| Grade 11  | 5500 |
+| Grade 12  | 6000  |
 
 ## Contact
 * Call or watsapp 9538072190
