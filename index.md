@@ -23,7 +23,7 @@
 * Home visits Starts @Rs. 8000 monthly depending up on the distance and grades
 * For Batch admissions, Rates are given below
 
-| Grades  | Monthly Fees for Mathematics |
+| Grades  | Monthly Fees [Mathematics] |
 | ------------- | ------------- |
 | Grade 6,7  | 4000  |
 | Grade 8  | 4250  |
@@ -31,7 +31,7 @@
 | Grade 10  | 4500  |
 | Grade 11/12  | 5000 |
 
-| Grades  | Monthly Fees Science |
+| Grades  | Monthly Fees [Science] |
 | ------------- | ------------- |
 | Grade 9,10 Phy  | 2400  |
 | Grade 9,10 Chem | 2400  |
