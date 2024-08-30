@@ -29,8 +29,7 @@
 | Grade 8  | 4250  |
 | Grade 9  | 4500  |
 | Grade 10  | 4500  |
-| Grade 11  | 5500 |
-| Grade 12  | 6000  |
+| Grade 11/12  | 5000 |
 
 | Grades  | Monthly Fees Science |
 | ------------- | ------------- |
